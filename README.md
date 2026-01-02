@@ -1,1 +1,2 @@
-![Top Language](https://img.shields.io/github/languages/top/kphudson13/kphudson13)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kphudson13&theme=transparent)
