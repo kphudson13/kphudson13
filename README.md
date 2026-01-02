@@ -1,11 +1,8 @@
-<table>
-<tr>
-<td width="40%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kphudson13&theme=transparent" />
-
-</td>
-<td>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kphudson13&theme=transparent"
+  align="left"
+  width="40%"
+/>
 
 <pre>
                 .' '.            __
@@ -14,6 +11,4 @@
          ' .  . ' ' .  . '     (__/
 </pre>
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
